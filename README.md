@@ -1,6 +1,6 @@
 <!-- HERO / HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I+am+Sathish;MERN+Stack+Developer;Java+Developer;SQL+Developer;Thank+You" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Haii+I+am+Sathish;MERN+Stack+Developer;Java+Developer;SQL+Developer;Thank+You" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,6 +10,9 @@
        style="border-radius:50%; border: 5px solid transparent; animation: spin 4s linear infinite, glow 2s ease-in-out infinite;">
 </p>
 
+<p align="center">
+  <strong>SATHISH V</strong>
+</p>
 
 <p align="center">
   <strong>Full-Stack Developer</strong> — MERN • Java • SQL • Git • GitHub  
