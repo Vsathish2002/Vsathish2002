@@ -1,11 +1,15 @@
 <!-- HERO / HEADER -->
-<h1 align="center">Hi 👋, I'm Sathish (Vsathish2002)</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4DB33D&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sathish+(Vsathish2002);Full+Stack+Developer;MERN+%7C+Java+%7C+SQL;Passionate+about+Clean+Code" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <img src="sathish-1.png" alt="profile" width="120" style="border-radius:50%" />
 </p>
+
 <p align="center">
-  <strong>Full-Stack Developer</strong> — MERN • Java • SQL • Git • GitHub<br/>
-  Building responsive, performant web apps and data-driven solutions.
+  <strong>Full-Stack Developer</strong> — MERN • Java • SQL • Git • GitHub  
+  Building responsive, performant web apps and solving problems with DSA in Java.
 </p>
 
 ---
@@ -22,65 +26,26 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
-
 ---
 
 ## 📌 About Me
 - 💻 Passionate **Full Stack Developer** with hands-on experience in **MERN Stack** (MongoDB, Express, React, Node.js).
 - 🔹 Skilled in **Java** and currently mastering **Data Structures & Algorithms (DSA)** for problem-solving.
-- 🚀 Building clean, efficient, and high-performance web applications.
-- 🌱 Always exploring new technologies and improving development workflows.
-
+- 🚀 Focused on building clean, efficient, and high-performance web applications.
+- 🌱 Lifelong learner — always exploring new tools and improving workflows.
+- ⚡ Fun fact: I debug faster with coffee ☕.
 
 ---
 
 ## 🛠️ Technologies & Tools
-
 **Frontend:** React, HTML5, CSS3, Tailwind, Bootstrap, JavaScript (ES6+)  
-**Backend:** Node.js, Express, Java 
-**Database:** MongoDB, MySQL
+**Backend:** Node.js, Express, Java  
+**Database:** MongoDB, MySQL  
 **Dev Tools:** Git, GitHub, VSCode, Docker (learning)  
-
-
----
-
-## 🚀 Featured Projects
-
-> _Click images to open repos (replace links with your actual repo URLs)._
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Vsathish2002/physiotherapy-booking">
-        <img src="assets/proj1.png" alt="Physio App" width="220" />
-        <h4>Book Appointment — Physiotherapy (MERN)</h4>
-      </a>
-      <p>Patient booking UI, doctor list, booking flow, email confirmations.</p>
-      <p><strong>Tech:</strong> React, Node, Express, MongoDB</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Vsathish2002/currency-converter">
-        <img src="assets/proj2.png" alt="Currency Converter" width="220" />
-        <h4>Currency Converter (React)</h4>
-      </a>
-      <p>React app using exchange rate API — clean UI & responsive.</p>
-      <p><strong>Tech:</strong> React, CSS, Fetch API</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Vsathish2002/space-shooter">
-        <img src="assets/proj3.png" alt="Space Shooter" width="220" />
-        <h4>Space Shooter (Python)</h4>
-      </a>
-      <p>Classic arcade shooter built during undergrad.</p>
-      <p><strong>Tech:</strong> Python, Pygame</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vsathish2002&show_icons=true&theme=radical" alt="github stats" />
 </p>
@@ -90,14 +55,15 @@
 
 ---
 
-## 💡 How to run my MERN project (example)
-```bash
-# backend
-cd physiotherapy-booking/backend
-npm install
-npm run dev       # (or `node server.js`)
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vsathish2002&theme=react-dark" alt="activity graph" />
+</p>
 
-# frontend
-cd ../frontend
-npm install
-npm start         # opens at http://localhost:3000
+---
+
+## 🏆 Badges & Competitive Coding
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/DSA-Java-blue?style=for-the-badge&logo=java" alt="DSA in Java" />
+</p>
