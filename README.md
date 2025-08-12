@@ -1,6 +1,6 @@
 <!-- HERO / HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I+am+Sathish;MERN+Stack+Developer;Java+Developer;SQL+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I+am+Sathish;MERN+Stack+Developer;Java+Developer;SQL+Developer;Thank+You" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,17 +9,6 @@
        width="200" 
        style="border-radius:50%; border: 5px solid transparent; animation: spin 4s linear infinite, glow 2s ease-in-out infinite;">
 </p>
-
-<style>
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-@keyframes glow {
-  0%, 100% { box-shadow: 0 0 10px #00ffcc; }
-  50% { box-shadow: 0 0 20px #ff66cc; }
-}
-</style>
 
 
 <p align="center">
