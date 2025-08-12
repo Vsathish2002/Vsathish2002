@@ -4,7 +4,7 @@
   <img src="sathish-1.png" alt="profile" width="120" style="border-radius:50%" />
 </p>
 <p align="center">
-  <strong>Full-Stack Developer</strong> — MERN • Java • SQL • Git • GitHub • Power BI<br/>
+  <strong>Full-Stack Developer</strong> — MERN • Java • SQL • Git • GitHub<br/>
   Building responsive, performant web apps and data-driven solutions.
 </p>
 
@@ -18,26 +18,29 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
+
 
 ---
 
 ## 📌 About Me
-- 🎓 MCA graduate — building full stack apps & learning data tools.
-- 💻 Primary focus: **MERN** (MongoDB, Express, React, Node) + **Java** backend.
-- 🔭 Current: Building a MERN physiotherapy booking app and learning Power BI.
-- 🌱 Interests: Clean UI, performance tuning, data visualization, automation.
+- 💻 Passionate **Full Stack Developer** with hands-on experience in **MERN Stack** (MongoDB, Express, React, Node.js).
+- 🔹 Skilled in **Java** and currently mastering **Data Structures & Algorithms (DSA)** for problem-solving.
+- 🚀 Building clean, efficient, and high-performance web applications.
+- 🌱 Always exploring new technologies and improving development workflows.
+
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 **Frontend:** React, HTML5, CSS3, Tailwind, Bootstrap, JavaScript (ES6+)  
-**Backend:** Node.js, Express, Java (Spring Boot)  
-**Database:** MongoDB, MySQL, Mongo Atlas  
-**Dev Tools:** Git, GitHub, VSCode, Postman, Docker (learning)  
-**Other:** Power BI, Excel, Linux basics
+**Backend:** Node.js, Express, Java 
+**Database:** MongoDB, MySQL
+**Dev Tools:** Git, GitHub, VSCode, Docker (learning)  
+
 
 ---
 
