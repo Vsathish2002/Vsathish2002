@@ -48,7 +48,7 @@
 **Frontend:** React, HTML5, CSS3, Tailwind, Bootstrap, JavaScript (ES6+)  
 **Backend:** Node.js, Express, Java  
 **Database:** MongoDB, MySQL  
-**Dev Tools:** Git, GitHub, VSCode, Docker (learning)  
+**Dev Tools:** Git, GitHub, VSCode  
 
 ---
 
