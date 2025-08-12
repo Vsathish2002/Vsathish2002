@@ -1,7 +1,7 @@
 <!-- HERO / HEADER -->
 <h1 align="center">Hi 👋, I'm Sathish (Vsathish2002)</h1>
 <p align="center">
-  <img src="assets/profile.jpg" alt="profile" width="120" style="border-radius:50%" />
+  <img src="sathish-1.png" alt="profile" width="120" style="border-radius:50%" />
 </p>
 <p align="center">
   <strong>Full-Stack Developer</strong> — MERN • Java • SQL • Git • GitHub • Power BI<br/>
@@ -19,7 +19,6 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img alt="PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white" />
 </p>
 
 ---
